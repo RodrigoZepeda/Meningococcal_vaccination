@@ -1,0 +1,100 @@
+
+TABLE III. (Part 2)  Provisional cases of selected notifiable diseases, United States, week ending January 3, 1998 (WEEK 53)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Meningococcal Disease cummulative for 1997
+Meningococcal Disease cummulative for 1996
+Mumps current week
+Mumps cummulative for 1997
+Mumps cummulative for 1996
+Pertussis current week
+Pertussis cummulative for 1997
+Pertussis cummulative for 1996
+Rubella current week
+Rubella cummulative for 1997
+Rubella cummulative for 1996
+
+tab delimited data:
+UNITED STATES	3,117	3,437	4	612	751	59	5,519	7,796	-	161	238										
+NEW ENGLAND	205	171	-	12	5	10	990	1,866	-	2	27										
+Maine	18	15	-	-	-	-	11	55	-	-	-										
+N.H.	18	13	-	1	1	10	143	197	-	-	-										
+Vt.	4	4	-	-	1	-	262	280	-	-	2										
+Mass.	102	71	-	4	1	-	522	1,245	-	1	21										
+R.I.	21	18	-	6	1	-	17	40	-	-	-										
+Conn.	42	50	-	1	1	-	35	49	-	1	4										
+MID. ATLANTIC	325	381	-	59	96	-	409	952	-	32	13										
+Upstate N.Y.	75	102	-	13	28	-	161	533	-	5	5										
+N.Y. City	46	56	-	3	20	-	62	61	-	27	5										
+N.J.	73	79	-	7	4	-	11	31	-	-	2										
+Pa.	131	144	-	36	44	-	175	327	-	-	1										
+E.N. CENTRAL	461	475	-	80	135	3	544	837	-	5	3										
+Ohio	164	159	-	35	52	1	165	289	-	-	-										
+Ind.	58	64	-	14	8	-	85	128	-	-	-										
+Ill.	148	142	-	13	24	2	126	192	-	2	1										
+Mich.	53	51	-	15	48	-	62	59	-	-	2										
+Wis.	38	59	-	3	3	-	106	169	-	3	-										
+W.N. CENTRAL	235	264	-	18	24	17	599	573	-	2	-										
+Minn.	34	39	-	6	7	15	384	433	-	-	-										
+Iowa	48	56	-	10	3	2	113	32	-	-	-										
+Mo.	109	98	-	-	10	-	68	74	-	2	-										
+N. Dak.	2	5	-	-	2	-	2	1	-	-	-										
+S. Dak.	6	10	-	-	-	-	5	4	-	-	-										
+Nebr.	14	29	-	2	-	-	14	15	-	-	-										
+Kans.	22	27	-	-	2	-	13	14	-	-	-										
+S. ATLANTIC	558	659	-	85	131	-	438	793	-	83	101										
+Del.	5	3	-	-	-	-	1	26	-	-	-										
+Md.	42	58	-	10	37	-	125	278	-	-	-										
+D.C.	9	5	-	-	-	-	3	4	-	1	1										
+Va.	58	67	-	19	19	-	56	108	-	1	2										
+W. Va.	18	18	-	-	-	-	6	7	-	-	-										
+N.C.	97	79	-	12	27	-	118	186	-	59	86										
+S.C.	61	65	-	11	7	-	30	49	-	19	1										
+Ga.	106	147	-	10	9	-	14	35	-	-	-										
+Fla.	162	217	-	23	32	-	85	100	-	3	11										
+E.S. CENTRAL	237	246	1	28	23	3	144	202	-	-	2										
+Ky.	48	31	-	3	-	-	61	142	-	-	-										
+Tenn.	85	65	1	7	1	1	40	24	-	-	-										
+Ala.	85	95	-	9	6	2	35	26	-	-	2										
+Miss.	19	55	U	9	16	U	8	10	U	-	N										
+W.S. CENTRAL	282	365	-	75	67	1	296	201	-	4	9										
+Ark.	34	35	-	1	1	-	60	14	-	-	-										
+La.	48	66	-	16	21	-	20	15	-	-	1										
+Okla.	45	46	-	-	1	1	49	21	-	-	-										
+Tex.	155	218	U	58	44	U	167	151	U	4	8										
+MOUNTAIN	190	183	2	59	25	25	1,252	660	-	6	9										
+Mont.	9	9	-	-	-	-	19	37	-	-	-										
+Idaho	15	25	1	6	-	14	570	115	-	1	2										
+Wyo.	4	4	-	1	1	-	7	8	-	-	-										
+Colo.	51	44	-	3	5	2	348	336	-	-	3										
+N. Mex.	30	27	N	N	N	5	198	64	-	-	-										
+Ariz.	46	37	1	34	1	4	45	33	-	5	3										
+Utah	16	18	-	8	3	-	26	26	-	-	-										
+Nev.	19	19	U	7	15	U	39	41	U	-	1										
+PACIFIC	624	693	1	196	245	-	847	1,712	-	27	74										
+Wash.	92	116	-	21	26	-	406	830	-	5	15										
+Oreg.	126	123	N	N	N	-	10	64	-	-	1										
+Calif.	396	437	-	147	185	-	403	780	-	14	55										
+Alaska	3	9	-	4	3	-	14	3	-	-	-										
+Hawaii	7	8	1	24	31	-	14	35	-	8	3										
+Guam	1	5	U	1	10	U	-	-	U	-	-										
+P.R.	10	13	-	7	2	-	2	3	-	-	-										
+V.I.	-	-	U	-	2	U	-	-	U	-	-										
+Amer. Samoa	-	-	U	-	-	U	-	-	U	-	-										
+C.N.M.I.	-	-	U	4	-	U	-	-	U	-	-										
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting year 1997 are provisional and cumulative (year-to-date).
+
+
+National Notifiable Diseases Surveillance System (NNDSS) at https://www.cdc.gov/nndss/
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

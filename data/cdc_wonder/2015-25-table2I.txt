@@ -1,0 +1,117 @@
+
+TABLE II. (Part 9)  Provisional cases of selected notifiable diseases, United States, week ending June 27, 2015 (WEEK 25)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Mumps current week
+Mumps previous 52 weeks median 
+Mumps previous 52 weeks maximum 
+Mumps cummulative for 2015
+Mumps cummulative for 2014
+Pertussis current week
+Pertussis previous 52 weeks median 
+Pertussis previous 52 weeks maximum 
+Pertussis cummulative for 2015
+Pertussis cummulative for 2014
+Rabies, animal current week
+Rabies, animal previous 52 weeks median 
+Rabies, animal previous 52 weeks maximum 
+Rabies, animal cummulative for 2015
+Rabies, animal cummulative for 2014
+
+tab delimited data:
+UNITED STATES	2	9	32	210	890	137	495	852	8,632	14,728	39	71	151	1,381	1,787						
+NEW ENGLAND	-	0	2	2	5	4	19	55	287	371	2	6	16	101	116						
+Conn.	-	0	2	-	-	-	2	7	27	16	-	3	13	69	54						
+Maine	-	0	0	-	-	4	9	35	182	161	1	1	3	11	16						
+Mass.	-	0	1	1	5	-	5	16	60	86	-	0	0	-	-						
+N.H.	-	0	2	-	-	-	1	5	9	29	-	0	2	8	9						
+R.I.	-	0	0	-	-	-	0	10	7	66	1	0	3	6	12						
+Vt.	-	0	1	1	-	-	0	5	2	13	-	0	4	7	25						
+MID. ATLANTIC	-	2	10	47	137	29	40	98	854	783	12	9	31	141	305						
+N.J.	-	0	3	9	31	-	6	16	108	171	-	0	0	-	-						
+N.Y. (Upstate)	-	0	3	13	4	12	14	57	259	287	12	7	15	141	146						
+N.Y. City	-	1	4	21	96	-	3	8	81	31	-	0	1	-	5						
+Pa.	-	0	5	4	6	17	16	38	406	294	-	3	17	-	154						
+E.N. CENTRAL	-	3	19	66	672	8	84	193	1,047	2,260	-	1	14	31	29						
+Ill.	-	1	8	44	109	-	13	45	213	234	-	0	6	13	8						
+Ind.	-	0	2	1	18	-	5	21	59	210	-	0	4	-	-						
+Mich.	-	0	3	1	6	3	19	73	181	459	-	0	5	6	14						
+Ohio	-	1	15	17	478	5	19	53	378	778	-	0	5	12	7						
+Wis.	-	0	1	3	61	-	19	82	216	579	N	0	0	N	N						
+W.N. CENTRAL	-	0	4	5	18	1	53	101	873	976	4	3	8	98	61						
+Iowa	-	0	3	2	2	-	3	11	57	80	-	0	0	-	-						
+Kans.	-	0	1	-	1	-	8	23	171	164	1	2	5	66	33						
+Minn.	-	0	2	2	11	-	17	40	137	338	-	0	0	-	-						
+Mo.	-	0	1	1	4	-	7	26	50	212	-	0	2	-	13						
+Nebr.	-	0	0	-	-	1	6	71	445	99	1	0	4	16	6						
+N. Dak.	-	0	1	-	-	-	0	6	9	20	-	0	0	-	-						
+S. Dak.	-	0	0	-	-	-	1	11	4	63	2	0	2	16	9						
+S. ATLANTIC	2	1	10	45	21	6	41	96	716	1,446	9	16	41	323	508						
+Del.	1	0	1	2	-	-	0	2	4	194	-	0	0	-	-						
+D.C.	-	0	1	-	14	1	0	3	4	10	-	0	0	-	-						
+Fla.	-	0	1	6	-	2	7	32	157	375	-	0	29	36	94						
+Ga.	-	0	1	-	1	-	6	17	101	206	-	3	10	-	116						
+Md.	-	0	2	5	1	1	3	16	61	55	-	6	19	112	130						
+N.C.	-	0	2	2	-	1	9	76	183	337	9	7	15	157	143						
+S.C.	-	0	1	-	-	1	3	9	66	59	N	0	0	N	N						
+Va.	1	0	8	29	5	-	6	39	117	201	-	0	0	-	-						
+W. Va.	-	0	1	1	-	-	0	4	23	9	-	0	4	18	25						
+E.S. CENTRAL	-	0	2	7	6	1	15	31	228	448	-	2	6	46	32						
+Ala.	-	0	1	1	1	-	5	13	82	101	-	2	6	41	28						
+Ky.	-	0	2	2	1	-	3	8	41	173	-	0	2	5	4						
+Miss.	-	0	1	1	-	-	0	3	7	46	-	0	1	-	-						
+Tenn.	-	0	2	3	4	1	5	16	98	128	-	0	0	-	-						
+W.S. CENTRAL	-	0	6	17	10	29	40	186	677	1,294	12	23	108	495	536						
+Ark.	-	0	1	3	1	-	2	14	15	160	-	1	7	43	99						
+La.	-	0	1	1	-	-	1	6	24	44	-	0	1	-	1						
+Okla.	-	0	2	1	2	-	0	20	16	53	1	1	11	29	59						
+Tex.	-	0	5	12	7	29	36	159	622	1,037	11	20	108	423	377						
+MOUNTAIN	-	0	6	11	12	29	65	102	1,404	2,259	-	0	9	5	58						
+Ariz.	-	0	2	-	9	6	11	29	350	302	N	0	0	N	N						
+Colo.	-	0	1	2	2	14	21	33	455	702	-	0	0	-	-						
+Idaho	-	0	6	8	-	5	5	20	136	191	-	0	2	-	1						
+Mont.	-	0	1	-	-	4	7	27	169	193	-	0	0	-	-						
+Nev.	-	0	1	-	1	-	1	7	15	73	-	0	5	1	4						
+N. Mex.	-	0	1	1	-	-	4	16	83	186	-	0	2	2	5						
+Utah	-	0	1	-	-	-	11	29	195	576	-	0	4	2	4						
+Wyo.	-	0	0	-	-	-	0	5	1	36	-	0	5	-	44						
+PACIFIC	-	1	4	10	9	30	130	321	2,546	4,891	-	3	24	141	142						
+Alaska	-	0	1	-	-	-	3	18	63	31	-	0	1	3	2						
+Calif.	-	0	4	6	7	-	102	309	1,432	4,489	-	3	24	136	140						
+Hawaii	-	0	1	-	-	-	0	4	18	20	-	0	0	-	-						
+Oreg.	-	0	1	1	1	5	10	26	317	216	-	0	3	2	-						
+Wash.	-	0	4	3	1	25	16	123	716	135	-	0	15	-	-						
+Amer. Samoa	-	-	-	-	-	-	-	-	-	-	U	-	-	U	U						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+P.R.	-	0	1	2	-	-	0	2	5	8	-	0	4	5	12						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+NP: Nationally notifiable but not published.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Three low incidence conditions, rubella, rubella congenital, and tetanus, have been moved to 
+Table 2 to facilitate case count verification with reporting jurisdictions.
+			
+
+* Case counts for reporting years 2014 and 2015 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+
+
+
+National Notifiable Diseases Surveillance System (NNDSS) at https://www.cdc.gov/nndss/
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

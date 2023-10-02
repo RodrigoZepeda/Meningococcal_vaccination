@@ -1,0 +1,148 @@
+TABLE 2m. Weekly cases* of selected notifiable diseases ( >1,000 cases reported during the preceding year), and selected low frequency diseases, United States and U.S. territories, week ending December 15, 2018 (WEEK 50)
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Meningococcal disease, all serogroups current week
+Meningococcal disease, all serogroups previous 52 weeks median 
+Meningococcal disease, all serogroups previous 52 weeks maximum 
+Meningococcal disease, all serogroups cummulative for 2018
+Meningococcal disease, all serogroups cummulative for 2017
+Mumps current week
+Mumps previous 52 weeks median 
+Mumps previous 52 weeks maximum 
+Mumps cummulative for 2018
+Mumps cummulative for 2017
+Pertussis current week
+Pertussis previous 52 weeks median 
+Pertussis previous 52 weeks maximum 
+Pertussis cummulative for 2018
+Pertussis cummulative for 2017
+
+tab delimited data:
+United States	3	6	20	293	324	20	34	905	2,197	5,121	116	251	1,288	12,675	17,286	
+New England	-	0	2	23	16	-	1	14	69	218	4	17	43	822	1,098	
+Connecticut	-	0	1	2	-	-	0	1	2	13	-	1	5	42	71	
+Maine	-	0	1	1	1	-	0	1	4	1	4	8	18	387	394	
+Massachusetts	-	0	2	19	10	-	1	5	42	188	-	4	11	211	397	
+New Hampshire	-	0	0	-	-	-	0	1	4	4	-	2	20	129	73	
+Rhode Island	-	0	1	1	2	-	0	11	2	11	-	0	24	26	57	
+Vermont	-	0	0	-	3	-	0	7	15	1	-	0	3	27	106	
+Middle Atlantic	-	1	3	37	43	-	8	27	450	673	15	21	48	1,067	2,045	
+New Jersey	-	0	2	6	9	-	0	4	36	38	-	4	10	197	457	
+New York (excluding New York City)	-	0	2	13	11	-	1	14	63	281	7	6	23	320	508	
+New York City	-	0	1	7	10	-	3	16	208	239	-	3	6	133	142	
+Pennsylvania	-	0	1	11	13	-	2	15	143	115	8	8	29	417	938	
+East North Central	-	0	3	29	42	1	7	34	376	449	22	44	158	2,272	3,321	
+Illinois	-	0	1	5	10	-	5	32	270	276	-	6	17	276	669	
+Indiana	-	0	1	8	12	-	0	2	14	41	-	3	11	173	376	
+Michigan	-	0	1	4	5	-	1	3	32	29	-	9	19	418	721	
+Ohio	-	0	2	8	11	1	0	7	38	56	21	10	37	585	835	
+Wisconsin	-	0	1	4	4	-	0	4	22	47	1	12	140	820	720	
+West North Central	-	0	3	16	20	-	1	5	72	802	8	20	56	940	1,589	
+Iowa	-	0	1	1	2	-	0	3	25	118	-	2	9	126	158	
+Kansas	-	0	1	1	3	-	0	1	3	161	-	2	8	114	196	
+Minnesota	-	0	0	-	5	-	0	3	10	72	-	5	32	232	684	
+Missouri	-	0	3	11	8	-	0	3	27	435	4	3	13	160	400	
+Nebraska	-	0	1	3	2	-	0	2	7	6	4	3	9	141	92	
+North Dakota	-	0	0	-	-	-	0	0	-	10	-	1	4	48	50	
+South Dakota	-	0	0	-	-	-	0	0	-	-	-	1	14	119	9	
+South Atlantic	-	1	5	59	66	2	4	34	302	260	18	30	64	1,460	1,555	
+Delaware	-	0	1	1	1	-	0	6	22	3	-	2	18	154	9	
+District of Columbia	-	0	0	-	1	-	0	3	8	49	-	0	2	9	22	
+Florida	-	0	2	20	20	-	1	7	49	62	10	7	16	325	342	
+Georgia	-	0	2	17	10	-	0	3	10	63	-	2	12	133	223	
+Maryland	-	0	2	6	7	-	0	3	25	8	6	1	10	110	100	
+North Carolina	-	0	1	9	9	-	0	1	11	36	-	7	22	330	398	
+South Carolina	-	0	0	-	3	-	0	1	5	-	-	3	11	192	187	
+Virginia	-	0	2	6	12	2	1	31	171	37	2	3	29	187	261	
+West Virginia	-	0	0	-	3	-	0	1	1	2	-	0	4	20	13	
+East South Central	-	0	1	12	14	-	1	3	44	150	10	10	26	487	900	
+Alabama	-	0	1	3	4	-	0	2	15	36	-	3	19	171	227	
+Kentucky	-	0	1	3	2	-	0	2	9	18	7	3	16	168	423	
+Mississippi	-	0	1	1	2	-	0	2	9	26	-	0	3	40	34	
+Tennessee	-	0	1	5	6	-	0	2	11	70	3	2	8	108	216	
+West South Central	3	0	3	24	23	15	3	33	215	1,225	10	25	220	1,200	2,024	
+Arkansas	-	0	1	2	-	-	0	3	10	541	-	1	7	64	216	
+Louisiana	-	0	0	-	5	-	0	3	12	70	-	1	10	104	83	
+Oklahoma	-	0	2	4	1	-	0	9	15	168	1	0	65	80	142	
+Texas	3	0	3	18	17	15	2	23	178	446	9	19	148	952	1,583	
+Mountain	-	0	2	13	18	2	1	5	62	173	29	35	70	1,805	1,936	
+Arizona	-	0	1	1	4	1	0	2	14	34	3	4	13	217	409	
+Colorado	-	0	1	5	6	1	0	3	24	82	10	12	35	581	625	
+Idaho	-	0	1	2	1	-	0	1	2	5	6	7	21	369	70	
+Montana	-	0	0	-	1	-	0	1	3	6	9	1	25	114	102	
+Nevada	-	0	1	1	2	-	0	1	1	5	1	0	6	28	90	
+New Mexico	-	0	1	1	2	-	0	2	6	1	-	3	15	211	183	
+Utah	-	0	1	3	2	-	0	2	12	40	-	5	18	272	439	
+Wyoming	-	0	0	-	-	-	0	0	-	-	-	0	4	13	18	
+Pacific	-	1	15	80	82	-	8	819	607	1,171	-	49	785	2,622	2,818	
+Alaska	-	0	1	3	1	-	2	25	226	128	-	1	7	80	56	
+California	-	1	4	44	58	-	1	5	73	184	-	31	60	1,557	2,488	
+Hawaii	-	0	1	1	1	-	3	27	236	793	-	1	4	30	36	
+Oregon	-	0	2	15	22	-	0	2	17	66	-	8	26	460	238	
+Washington	-	0	11	17	-	-	1	779	55	-	-	8	740	495	-	
+
+American Samoa	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-	
+Commonwealth of Northern Mariana Islands	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+Guam	-	0	0	-	1	-	0	0	-	-	-	0	0	-	-	
+Puerto Rico	-	0	0	-	1	-	0	0	-	1	-	0	1	-	13	
+U.S. Virgin Islands	-	0	0	-	-	-	0	0	-	1	-	0	0	-	-	
+U: Unavailable - The data are unavailable.
+-: No reported cases - The reporting jurisdiction did not submit any cases to CDC.
+N: Not reportable - The disease or condition was not reportable by law, statute, or regulation in the reporting jurisdiction. 
+NN: Not nationally notifiable - This condition was not designated as being nationally notifiable.
+NP: Nationally notifiable but not published - CDC does not have data because of changes in how conditions are categorized.
+Cum: Cumulative year-to-date counts.
+Median - Median case count during the previous 52 weeks.
+Maximum - Maximum case count during the previous 52 weeks.
+* Case counts for reporting year 2018 are provisional and subject to change.
+
+
+Notes:
+
+	These are weekly cases of selected infectious 
+	national notifiable diseases, from the 
+	National Notifiable Diseases Surveillance System (NNDSS).  
+	NNDSS data reported by the 50 states, New York City, the District of Columbia, 
+	and the U.S. territories are collated and published weekly as numbered tables. 
+	Cases reported by state health departments to CDC for weekly publication are 
+	subject to ongoing revision of information and delayed reporting.
+	Therefore, numbers listed in later weeks may reflect changes made to 
+	these counts as additional information becomes available. 
+	Case counts in the tables are presented as published each week.
+	See also https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf, 
+	Guide to Interpreting Provisional and Finalized NNDSS Data. 
+
+
+	Weekly tables since 1996 are available on 
+	https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp, CDC WONDER. 
+
+	Weekly tables since 2014 are available on 
+	https://data.cdc.gov/browse?q=NNDSS&sortBy=newest&utf8=%E2%9C%93, Data.CDC.gov. 
+
+	Weekly tables for 1952-2017 published in the MMWR are available at https://stacks.cdc.gov/mmwr, CDC Stacks MMWR, 
+	and weekly tables starting in 2018 are available at https://stacks.cdc.gov/nndss, CDC Stacks NNDSS
+	(once in CDC Stacks NNDSS select "Weekly Tables" in the "Genre" box at the left).
+
+
+	Notices, errata, and other notes are available in the  
+	https://wonder.cdc.gov/nndss/NTR.html, Notice To Data Users page.
+
+	The list of national notifiable infectious diseases and conditions and their national surveillance case definitions are 
+	available at https://wwwn.cdc.gov/nndss/conditions/, https://wwwn.cdc.gov/nndss/conditions/. This list incorporates the Council of State and Territorial 
+	Epidemiologists (CSTE) position statements approved by CSTE for national surveillance. 
+
+Suggested Citation:
+
+	Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System, 
+	Weekly Tables of Infectious Disease Data. Atlanta, GA. CDC Division of Health Informatics and Surveillance. 
+	Available at: https://www.cdc.gov/nndss/infectious-tables.html, https://www.cdc.gov/nndss/infectious-tables.html.
+
+
+
+https://wwwn.cdc.gov/nndss/, National Notifiable Diseases Surveillance System
+
+Provided by https://wonder.cdc.gov, CDC WONDER
+
+
+
