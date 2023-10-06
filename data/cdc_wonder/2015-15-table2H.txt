@@ -1,0 +1,120 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending April 18, 2015 (WEEK 15)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Lyme disease current week
+Lyme disease previous 52 weeks median 
+Lyme disease previous 52 weeks maximum 
+Lyme disease cummulative for 2015
+Lyme disease cummulative for 2014
+Malaria current week
+Malaria previous 52 weeks median 
+Malaria previous 52 weeks maximum 
+Malaria cummulative for 2015
+Malaria cummulative for 2014
+Meningococcal diseases, invasive§, All groups current week
+Meningococcal diseases, invasive§, All groups previous 52 weeks median 
+Meningococcal diseases, invasive§, All groups previous 52 weeks maximum 
+Meningococcal diseases, invasive§, All groups cummulative for 2015
+Meningococcal diseases, invasive§, All groups cummulative for 2014
+
+tab delimited data:
+UNITED STATES	47	424	1,922	1,581	2,564	9	25	54	142	312	7	6	13	117	170						
+NEW ENGLAND	-	134	757	187	953	-	1	7	7	23	1	0	2	7	5						
+Conn.	-	31	178	36	189	-	0	2	-	3	-	0	1	-	-						
+Maine	-	16	94	59	75	-	0	1	-	2	-	0	1	1	-						
+Mass.	-	55	465	16	519	-	1	5	6	13	-	0	1	2	4						
+N.H.	-	2	67	1	76	-	0	1	-	2	-	0	0	-	-						
+R.I.	-	11	84	42	42	-	0	3	1	3	-	0	2	2	1						
+Vt.	-	7	48	33	52	-	0	2	-	-	1	0	1	2	-						
+MID. ATLANTIC	38	192	961	966	1,213	3	6	24	38	79	-	1	4	13	10						
+N.J.	-	37	191	210	461	-	1	5	8	10	-	0	1	2	2						
+N.Y. (Upstate)	12	42	172	157	171	2	1	4	13	11	-	0	2	3	1						
+N.Y. City	1	3	441	29	31	1	3	16	13	41	-	0	2	4	4						
+Pa.	25	85	642	570	550	-	1	6	4	17	-	0	2	4	3						
+E.N. CENTRAL	-	15	137	39	102	2	2	6	17	25	-	1	3	10	18						
+Ill.	-	1	18	4	8	-	1	4	5	6	-	0	1	1	7						
+Ind.	-	1	12	3	5	-	0	3	3	5	-	0	1	1	2						
+Mich.	-	1	11	3	7	-	0	2	1	6	-	0	1	3	2						
+Ohio	-	2	10	12	8	2	0	3	8	8	-	0	2	5	5						
+Wis.	-	11	104	17	74	-	0	2	-	-	-	0	1	-	2						
+W.N. CENTRAL	-	2	23	5	7	-	1	4	5	18	-	0	2	7	9						
+Iowa	-	1	20	2	2	-	0	2	2	4	-	0	1	2	1						
+Kans.	-	0	2	1	2	-	0	1	-	5	-	0	1	2	1						
+Minn.	-	0	0	-	3	-	0	0	-	2	-	0	1	-	2						
+Mo.	-	0	2	-	-	-	0	1	2	4	-	0	1	2	2						
+Nebr.	-	0	3	2	-	-	0	2	1	1	-	0	1	1	-						
+N. Dak.	-	0	2	-	-	-	0	1	-	2	-	0	1	-	1						
+S. Dak.	-	0	1	-	-	-	0	1	-	-	-	0	0	-	2						
+S. ATLANTIC	9	57	195	354	258	4	6	19	42	88	-	1	6	30	40						
+Del.	1	6	25	35	58	-	0	1	-	1	-	0	0	-	1						
+D.C.	-	1	4	9	8	-	0	2	1	-	-	0	1	3	-						
+Fla.	1	2	12	29	15	1	1	4	11	9	-	1	4	13	16						
+Ga.	-	0	1	-	-	-	1	5	3	17	-	0	3	4	6						
+Md.	4	19	81	145	95	3	2	8	14	40	-	0	1	1	3						
+N.C.	-	0	78	21	10	-	0	8	2	3	-	0	1	2	11						
+S.C.	-	1	3	5	3	-	0	1	1	2	-	0	3	-	1						
+Va.	3	17	149	92	58	-	1	5	10	15	-	0	2	7	2						
+W. Va.	-	1	15	18	11	-	0	1	-	1	-	0	1	-	-						
+E.S. CENTRAL	-	2	10	11	8	-	0	5	4	12	-	0	2	4	5						
+Ala.	-	1	7	8	-	-	0	3	3	2	-	0	1	3	1						
+Ky.	-	0	5	3	7	-	0	2	-	3	-	0	1	-	1						
+Miss.	-	0	1	-	-	-	0	1	-	-	-	0	1	-	-						
+Tenn.	-	0	3	-	1	-	0	2	1	7	-	0	2	1	3						
+W.S. CENTRAL	-	0	7	1	-	-	2	10	6	18	1	0	4	11	14						
+Ark.	-	0	0	-	-	-	0	1	2	2	-	0	1	1	1						
+La.	-	0	1	-	-	-	0	1	1	3	-	0	1	1	3						
+Okla.	-	0	0	-	-	-	0	3	1	-	-	0	2	1	2						
+Tex.	-	0	7	1	-	-	1	9	2	13	1	0	3	8	8						
+MOUNTAIN	-	1	8	7	8	-	1	6	3	17	-	0	2	2	16						
+Ariz.	-	0	6	6	1	-	0	3	1	9	-	0	1	-	6						
+Colo.	-	0	0	-	-	-	0	3	-	6	-	0	2	1	3						
+Idaho	-	0	1	1	2	-	0	1	-	-	-	0	1	-	1						
+Mont.	-	0	2	-	1	-	0	1	-	-	-	0	1	-	2						
+Nev.	-	0	2	-	1	-	0	2	-	-	-	0	1	-	2						
+N. Mex.	-	0	0	-	-	-	0	1	-	1	-	0	1	1	1						
+Utah	-	0	2	-	3	-	0	1	2	1	-	0	0	-	1						
+Wyo.	-	0	1	-	-	-	0	0	-	-	-	0	0	-	-						
+PACIFIC	-	2	8	11	15	-	3	7	20	32	5	1	7	33	53						
+Alaska	-	0	1	1	-	-	0	1	1	1	-	0	1	-	-						
+Calif.	-	1	5	6	9	-	1	5	14	21	-	0	4	15	36						
+Hawaii	N	0	0	N	N	-	0	1	-	-	-	0	1	2	1						
+Oreg.	-	1	3	4	6	-	0	2	4	1	-	0	3	11	11						
+Wash.	-	0	2	-	-	-	0	3	1	9	5	0	6	5	5						
+Amer. Samoa	N	-	-	N	N	-	-	-	-	-	-	-	-	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+P.R.	N	0	0	N	N	-	0	1	-	-	-	0	0	-	-						
+V.I.	N	0	0	N	N	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+NP: Nationally notifiable but not published.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Three low incidence conditions, rubella, rubella congenital, and tetanus, have been moved to 
+Table 2 to facilitate case count verification with reporting jurisdictions.
+			
+
+* Case counts for reporting years 2014 and 2015 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+§ Data for meningococcal disease, invasive caused by serogroups ACWY; serogroup B; other serogroup; and 
+unknown serogroup are available in Table I.
+
+
+
+
+National Notifiable Diseases Surveillance System (NNDSS) at https://www.cdc.gov/nndss/
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

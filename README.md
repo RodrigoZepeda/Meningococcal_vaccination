@@ -11,8 +11,8 @@ Data is downloaded from the weekly reports using the `download_wonder.R` script.
 ```mermaid
 graph TD;
 
+    download_cdc_wonder.R -->|Downloads data from Socrata API| download_wonder.R;
     download_wonder.R -->|Downloads data| process_wonder.R;
-    
     process_wonder.R -->|Generates weekly totals| meningococcal_total.rds;
     process_wonder.R -->|Weekly totals since 2018| meningococcal_variants.rds;
     process_wonder.R -->|Yearly totals by age\n2016 to 2020| meningococcal_age.rds;

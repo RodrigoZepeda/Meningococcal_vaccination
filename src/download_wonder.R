@@ -1,5 +1,5 @@
 #' Process wonder downloads data from the CDC-Wonder database
-#'
+#' Also run the `download_cdc_wonder` file
 
 rm(list = ls())
 pacman::p_load(lubridate, tidyverse, glue, cli, beepr, httr)
@@ -132,7 +132,7 @@ download_2016 <- function(verbose = TRUE){
 }
 
 download_2015 <- function(verbose = TRUE){
-  download_cdc_wonder(years = 2015, tables = c("2I"), verbose = verbose, url_type = "2016")
+  download_cdc_wonder(years = 2015, tables = c("2H"), verbose = verbose, url_type = "2016")
 }
 
 download_2010_2014 <- function(verbose = TRUE){
@@ -182,6 +182,5 @@ download_all <- function(verbose = TRUE, beep = TRUE){
 }
 
 #Download the files----
-
 download_all()
 
